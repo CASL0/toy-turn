@@ -1,0 +1,12 @@
+{
+  "language": "japanese",
+  "permissions": {
+    "allow": [
+      "Edit(**/*.go)",
+      "Write(**/*.go)"
+    ],
+    "deny": [
+      "Read(.env)"
+    ]
+  }
+}
